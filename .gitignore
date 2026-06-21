@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+# Konfigurace s hesly
+webik/config.php
+.env
+
+# Závislosti (Composer)
+webik/vendor/
+=======
+# Logy přehrávače a aplikací
+*.log
+player.log
+>>>>>>> 1304d432eef4658d9c0d096a92ec6b2efdd91bf6
+
+# Systémové soubory
+.DS_Store
+Thumbs.db
+<<<<<<< HEAD
+=======
+
+# Případné lokální konfigurační soubory (pokud bys nějaké přidával)
+.env
+config.local.php
+>>>>>>> 1304d432eef4658d9c0d096a92ec6b2efdd91bf6
